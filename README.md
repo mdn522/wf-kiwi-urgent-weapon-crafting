@@ -13,3 +13,4 @@ Step 8: Open https://wf.my.com/kiwi
 
 
 Facebook: https://www.facebook.com/mdn522
+Donation goes here xD: https://www.paypal.me/mdn522/
