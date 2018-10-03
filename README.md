@@ -11,6 +11,7 @@ Step 6: Paste the location
 Step 7: Hit OK  
 Step 8: Open https://wf.my.com/kiwi  
 
+Note: Use at your own risk :p  
 
 Facebook: https://www.facebook.com/mdn522  
 Donation goes here xD: https://www.paypal.me/mdn522/
