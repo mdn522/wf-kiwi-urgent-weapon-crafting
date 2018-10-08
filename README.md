@@ -1,5 +1,5 @@
 # wf-kiwi-urgent-weapon-crafting
-Opens disabled K.I.W.I. page so you can manage your weapon crafting crates.
+Opens disabled K.I.W.I. page so you can manage your weapon crafting crates.  
 This is a Google Chrome Extension. also works on Opera
 
 How to install:  
