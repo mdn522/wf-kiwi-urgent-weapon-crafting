@@ -1,4 +1,4 @@
-# wf-kiwi-urgent-weapon-crafting
+# Warface K.I.W.I. Urgent Weapon Crafting
 Opens disabled K.I.W.I. page so you can manage your weapon crafting crates.  
 This is a Google Chrome Extension. also works on Opera
 
